@@ -1,5 +1,8 @@
-# Ignore Gradle project-specific cache directory
-.gradle
+# Directorios binarios
+/bin/
+/target/
 
-# Ignore Gradle build output directory
-build
+# Archivos de configuración del entorno de desarrollo
+.classpath
+.project
+.settings/
